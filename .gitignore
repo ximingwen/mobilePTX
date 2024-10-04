@@ -149,6 +149,6 @@ input_videos*/
 
 classifier.pt
 yolo.tflite
-yolo4/yolov4-416.tflite
-yolo4/Pleural_Line_TensorFlow*/
+yolov4/yolov4-416.tflite
+yolov4/Pleural_Line_TensorFlow*/
 sparse_coding_torch/classifier_outputs*/
