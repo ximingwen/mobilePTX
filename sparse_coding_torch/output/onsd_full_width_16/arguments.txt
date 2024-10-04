@@ -1,0 +1,1 @@
+Namespace(batch_size=32, kernel_width=150, kernel_height=10, kernel_depth=1, num_kernels=16, stride=1, max_activation_iter=300, activation_lr=0.01, lr=0.003, epochs=150, lam=0.05, output_dir='sparse_coding_torch/output/onsd_full_width_16/', seed=42, run_2d=False, save_filters=True, optimizer='sgd', crop_height=100, crop_width=300, scale_factor=2, clip_depth=1, frames_to_skip=1)
